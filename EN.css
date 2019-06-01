@@ -11,11 +11,11 @@ width:100% !important
     top: 0px !important;
 }
 
-div.footer-right-buttons pull-right{
+div.footer-right-buttons{
 float:none !important,
 }
 
-.btn.cancel-btn {
+.submit-btn{
     float: left !important;
     width: 20% !important;
 }
