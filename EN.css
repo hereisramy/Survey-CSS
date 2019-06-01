@@ -11,6 +11,9 @@ width:100% !important
     top: 0px !important;
 }
 
+label.rating-label {
+    background: url(https://cdn.jsdelivr.net/gh/hereisramy/Survey-CSS/010edited.png) no-repeat !important;
+}
 div.footer-right-buttons{
 float:none !important,
 }
