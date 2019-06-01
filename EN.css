@@ -2,14 +2,14 @@
     font-size: 28px;
     color:red
 }
-#liveForm .kpl_builder{
+/*#liveForm .kpl_builder{
 width:100% !important
 }
 .kpl_builder .noRepeatBackGroundImg .neb-rating-image-implementation{
     padding: 0 !important;
     position: absolute !important;
     top: 0px !important;
-}
+}*/
 
 label.rating-label {
     background: url(https://cdn.jsdelivr.net/gh/hereisramy/Survey-CSS/010edited.png) no-repeat !important;
