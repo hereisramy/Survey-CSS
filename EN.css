@@ -2,3 +2,11 @@
     font-size: 28px;
     color:red
 }
+#liveForm .kpl_builder{
+width:100% !important
+}
+.previewModal .ng-scope{
+    padding: 0 !important;
+    position: absolute !important;
+    top: 0px !important;
+}
