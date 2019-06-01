@@ -15,7 +15,7 @@ div.footer-right-buttons{
 float:none !important,
 }
 
-button.btn.cancel-btn.form-close-btn.ng-binding.ng-scope{
+#liveForm .kpl_builder .panel-footer .btn .cancel-btn{
     float: left !important;
     width: 20% !important;
 }
