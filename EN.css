@@ -15,7 +15,7 @@ div.footer-right-buttons{
 float:none !important,
 }
 
-.submit-btn{
+button.btn.cancel-btn.form-close-btn.ng-binding.ng-scope{
     float: left !important;
     width: 20% !important;
 }
