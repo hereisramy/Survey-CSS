@@ -10,3 +10,6 @@ width:100% !important
     position: absolute !important;
     top: 0px !important;
 }
+.neb-rating .neb-rating.numbersCircle label {
+    background: url(../rating/0-10_colored.png) no-repeat;
+}
