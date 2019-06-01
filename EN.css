@@ -15,16 +15,16 @@ div.footer-right-buttons pull-right{
 float:none !important,
 }
 
-#liveForm .kpl_builder .panel-footer .btn.cancel-btn {
+.btn.cancel-btn {
     float: left !important;
     width: 20% !important;
 }
 
-#liveForm .kpl_builder .panel-footer .btn.submit-btn {
+.btn.submit-btn {
     width: 50% !important;
     float: right !important;
 }
-neb-rating .neb-rating.numbersCircle label {
+.numbersCircle label {
     background: url("https://cdn.jsdelivr.net/gh/hereisramy/Survey-CSS/010edited.png") no-repeat !important;
 }
 neb-rating .neb-rating {
