@@ -13,3 +13,76 @@ width:100% !important
 .neb-rating .neb-rating.numbersCircle label {
     background: url("https://cdn.jsdelivr.net/gh/hereisramy/Survey-CSS/010edited.png") no-repeat !important !important !important;
 }
+
+
+.nps-number-0, .nps-number-1, .nps-number-2, .nps-number-3, .nps-number-4, .nps-number-5,
+.nps-number-6, .nps-number-7, .nps-number-8, .nps-number-9, .nps-number-10,
+.nps-number-0-on, .nps-number-1-on, .nps-number-2-on, .nps-number-3-on, .nps-number-4-on, .nps-number-5-on,
+.nps-number-6-on, .nps-number-7-on, .nps-number-8-on, .nps-number-9-on, .nps-number-10-on {
+  background: url("https://cdn.jsdelivr.net/gh/hereisramy/Survey-CSS/010edited.png") no-repeat; }
+
+.nps-number-0 {
+  background-position: 0 0; }
+
+.nps-number-1 {
+  background-position: -30px 0; }
+
+.nps-number-2 {
+  background-position: -60px 0; }
+
+.nps-number-3 {
+  background-position: -90px 0; }
+
+.nps-number-4 {
+  background-position: -120px 0; }
+
+.nps-number-5 {
+  background-position: -150px 0; }
+
+.nps-number-6 {
+  background-position: -180px 0; }
+
+.nps-number-7 {
+  background-position: -210px 0; }
+
+.nps-number-8 {
+  background-position: -240px 0; }
+
+.nps-number-9 {
+  background-position: -270px 0; }
+
+.nps-number-10 {
+  background-position: -300px 0; }
+
+.nps-number-0-on {
+  background-position: 0 -30px; }
+
+.nps-number-1-on {
+  background-position: -30px -30px; }
+
+.nps-number-2-on {
+  background-position: -60px -30px; }
+
+.nps-number-3-on {
+  background-position: -90px -30px; }
+
+.nps-number-4-on {
+  background-position: -120px -30px; }
+
+.nps-number-5-on {
+  background-position: -150px -30px; }
+
+.nps-number-6-on {
+  background-position: -180px -30px; }
+
+.nps-number-7-on {
+  background-position: -210px -30px; }
+
+.nps-number-8-on {
+  background-position: -240px -30px; }
+
+.nps-number-9-on {
+  background-position: -270px -30px; }
+
+.nps-number-10-on {
+  background-position: -300px -30px; }
